@@ -1,0 +1,8 @@
+Команды для регистрации ваших данных
+git config --global user.name "bartenderOG"
+git config -- global user.email "bartenderback@gmail.com"
+
+Основные команды для работы с Git
+
+1) git status (проверка состояния фвйлов в проекте)
+2) git add
