@@ -47,3 +47,4 @@ feat/create_order
 -m "fix: registr added file service registr.py link"
 -m "update: registr added file service registr.py link"
 
+git merge -для вытягивания данных с другой ветки
