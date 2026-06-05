@@ -48,3 +48,8 @@ feat/create_order
 -m "update: registr added file service registr.py link"
 
 git merge -для вытягивания данных с другой ветки
+
+
+6) git restore       | Вернуть файлы в исходное состояние
+7) git reset         | Вернуть файлы в исходное состояние после git add .
+8) git reset --mixed HEAD~1 | Удалить последний коммит и вернуть файлы в исходное состояние
